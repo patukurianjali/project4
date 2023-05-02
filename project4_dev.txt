@@ -1,0 +1,11 @@
+x=20
+if x>1:
+   for i in r0ange (2,x//2+1):
+      if x%i==0:
+          print("not prime number")
+         break
+   else:
+      print(" prime number")
+else:
+    print("not prime number")
+
